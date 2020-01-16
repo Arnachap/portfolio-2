@@ -1,0 +1,13 @@
+#landing {
+  .header {
+    position: realtive;
+    width: 100vw;
+
+    .landing-background {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+    }
+  }
+}

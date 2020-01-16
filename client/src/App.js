@@ -1,12 +1,12 @@
 import React from 'react';
 import './main.css';
 
-import Header from './components/landing/Header';
+import Landing from './components/landing/Landing';
 
 function App() {
   return (
     <div>
-      <Header />
+      <Landing />
     </div>
   );
 }
